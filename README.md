@@ -12,7 +12,7 @@ This project is to create Amazon Lex bot with AWS Lambda function.
 - Also available on [youtube](https://youtu.be/-TFCPazHs18)
 
 >[`Amazon Lex with Lambda`](/videos/Amazon_Lex_with_Lambda.mp4) is the final demonstration of the Amazon Lex bot that is enhanced with the AWS Lambda function.
-- Also available on [youtube](https://youtube.com/shorts/ZK6exJKakIc?feature=share)
+- Also available on [youtube](https://youtu.be/0jNxq5i2_x4)
 
 ---
 ### Other Files
